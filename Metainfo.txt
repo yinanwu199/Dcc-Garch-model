@@ -1,0 +1,21 @@
+Name of QuantLet:  DCC Garch Model and VaR
+
+Published in:     XFG exercises
+Description:       use DCC Garch Model to estimate the volatility for stocks of google and apple.
+                          and their VaRs
+
+Keywords:         time-series, plot, DCC garch, volatility, 
+
+See also:          Garch model, CCC garch
+
+Author:            Wu,Yinan
+
+Submitted:       22.05.2016
+
+Datafile:          a1.csv, g1.csv
+
+Input:        historical datas from Yahoo Finance 
+
+Output:   two plots and VaRs
+
+Example:  
