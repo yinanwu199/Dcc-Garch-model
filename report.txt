@@ -1,0 +1,5 @@
+ DCC Garch Model and VaR
+
+we have 4 stocks apple, google, nike and mircosoft. The dataset is from 2009.12.14 to
+2012.12.12. We estimate the 4 stocks as portfolio with Dcc Garch model. The value at
+risk for 95% for this portfolio is around 10. From the backtesting we cannot reject null hypothese, which means our Dcc garch model is suitable. 
